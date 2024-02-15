@@ -38,7 +38,7 @@
 
  ### Demonstração
  
-<p align='center'> <img src= '/giphy.gif'</p></p>
+<p align='center'> <img src= '/gipy.gif'</p></p>
  
 ### Tecnologias
 
