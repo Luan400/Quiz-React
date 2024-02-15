@@ -38,7 +38,7 @@
 
  ### Demonstração
  
-<p align='center'> <img src= '/gifvue.gif'></p>
+<p align='center'> <video src= '/QuizAppVideo.mp4'></p>
  
 ### Tecnologias
 
@@ -46,8 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <div>
 <ul>
-<li>VUE.JS</li>
-<li>HTML5</li>
+<li>REACT.JS</li>
 <li>CSS3</li>
 <li>JAVASCRIPT</li>
 </ul>
